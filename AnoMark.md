@@ -3,6 +3,7 @@
 [Manual](https://markdown.net.br/sintaxe-basica/)
 
 * Titulação
+
 #Título<h1>
 ##Título<h2>
 ###Título<h3>
@@ -27,13 +28,11 @@ Link direto: envolva o endereço da web em chaves <>. O endereço ficará visív
 
 * Listas de itens
 Para listas não ordenadas, utilize um asterisco * na frente to item da lista:
-
 	* Item 1
 	* Item 2
 	* Item 3
 
 Para listas ordenadas, utilize o número do item seguido de ponto . :
-
 	1. Item 1
 	2. Item 2
 	3. Item 3
